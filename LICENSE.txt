@@ -17,6 +17,6 @@ This project is released under a dual-license model:
 - Share and adapt the assets/documentation for non-commercial purposes, with attribution
 
 Please credit the project as:  
-**"Spectral PAL by Astral Records"**
+**"Spectral Pal by Astral Records"**
 
 For commercial licensing inquiries, contact: [luvaitkevica@proton.me]
