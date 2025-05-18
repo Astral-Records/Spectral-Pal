@@ -14,7 +14,7 @@ The prototype is based on C language and uses Arduino UNO and IR (infrared) sens
 </p>
     </td>
     <td style="width: 40%; vertical-align: top;">
-      <img src="./SP_Poster_Lat.jpg" style="width: 100%; height: auto;"/>
+      <img src="./assets/SP_Poster_Lat.jpg" style="width: 100%; height: auto;"/>
     </td>
     
   </tr>
