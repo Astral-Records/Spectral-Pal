@@ -1,0 +1,22 @@
+Spectral Pal– Copyright © 2025 Astral Records
+
+This project is released under a dual-license model:
+
+1. The **source code** located in the `src/` directory is licensed under the terms of the **GNU General Public License v3.0 (GPLv3)**.
+   You can find the full text in the file `LICENSE-GPLv3.txt` or at https://www.gnu.org/licenses/gpl-3.0.en.html
+
+2. The **assets and documentation** located in the `assets/` and `docs/` directories (including images, logos, diagrams, drawings, and written content) are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+   The full text is in `LICENSE-CC.txt` or at https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+
+:no_entry_sign: **Commercial use of assets and documentation is not allowed without explicit permission.**
+
+:white_check_mark: You are free to:
+- Use, modify, and redistribute the code under the terms of GPLv3
+- Share and adapt the assets/documentation for non-commercial purposes, with attribution
+
+Please credit the project as:  
+**"Spectral PAL by Astral Records"**
+
+For commercial licensing inquiries, contact: [luvaitkevica@proton.me]
