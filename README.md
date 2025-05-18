@@ -13,4 +13,4 @@ Product's prototype is based on IR (infrared) sensor, Arduino UNO and uses C for
 - Reminder in cases a person is sitting too long infront of the screen
 
 ## Simulation in Tinkercad
-(https://www.tinkercad.com/things/kJ8C4ohQrSh-spectral-pal?sharecode=h3pmaaNPvNmvdpFNgzQEwLuWjI1L4B5lH18c5Ithxl4)
+simulation -> [https://www.tinkercad.com/things/kJ8C4ohQrSh-spectral-pal?sharecode=h3pmaaNPvNmvdpFNgzQEwLuWjI1L4B5lH18c5Ithxl4]
