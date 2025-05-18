@@ -39,4 +39,3 @@ This project uses dual licensing:
 You may freely use, modify, and share the code under GPLv3 terms.  
 However, **non-code materials may not be used commercially** without permission.
 
-© 2025 [Your Name] – Contact: your@email.com
