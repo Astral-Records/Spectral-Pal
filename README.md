@@ -9,6 +9,10 @@ Spectral pal - a helping device fixed above or below a computer screen to measur
 
 The prototype is based on C language and uses Arduino UNO and IR (infrared) sensor. As alternatives in the future versions, special circuits may be used.
 
+<p align="center">
+  <img src="./PS_Poster_Lat.jpg" width="600"/>
+</p>
+![Spectral Pal Poster](./PS_Poster_Lat.jpg)
 
 ### 🔧 Work in progress:
 - Adding POMODORO reminders to your screen
