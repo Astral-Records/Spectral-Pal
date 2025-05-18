@@ -27,7 +27,7 @@ The prototype is based on C language and uses Arduino UNO and IR (infrared) sens
 
 
 ### ⚙️ Simulation
-🔗 [view the simulation on Tinkercad](https://www.tinkercad.com/things/kJ8C4ohQrSh-spectral-pal?sharecode=h3pmaaNPvNmvdpFNgzQEwLuWjI1L4B5lH18c5Ithxl4)
+🔗 [View simulation on Tinkercad](https://www.tinkercad.com/things/kJ8C4ohQrSh-spectral-pal?sharecode=h3pmaaNPvNmvdpFNgzQEwLuWjI1L4B5lH18c5Ithxl4)
 
 ### :pencil: License
 
