@@ -29,8 +29,14 @@ The prototype is based on C language and uses Arduino UNO and IR (infrared) sens
 ### ⚙️ Simulation
 🔗 [view the simulation on Tinkercad](https://www.tinkercad.com/things/kJ8C4ohQrSh-spectral-pal?sharecode=h3pmaaNPvNmvdpFNgzQEwLuWjI1L4B5lH18c5Ithxl4)
 
----
-© 2025 Astral-Records. All rights reserved.
+### :pencil: License
 
-This project is for demonstration purposes only.  
-No part of this work may be copied, used, or redistributed without explicit permission.
+This project uses dual licensing:
+
+- **Code** (`/src`): [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)  
+- **Assets & Docs** (`/docs`, `/assets`): [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+You may freely use, modify, and share the code under GPLv3 terms.  
+However, **non-code materials may not be used commercially** without permission.
+
+© 2025 [Your Name] – Contact: your@email.com
