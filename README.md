@@ -2,7 +2,7 @@
 
 ## Description
 
-              ! ! The following project is still in progress and is protected by the copyright !!
+! ! The following project is still in progress and is protected by the copyright !!
               
 Spectral pal - a helping device, that is fixed above or under the screen measuring the distance between the user and computer. It's main function is to give auditory warning if the recommended minimum distance is not reached.  Some prototypes may include connection to the device's screen providing visual reminders.
 
