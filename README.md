@@ -5,9 +5,9 @@
 
 ### 📝 Description
    
-Spectral pal - a helping device, that is fixed above or under the screen measuring the distance between the user and computer. It's main function is to give auditory warning if the recommended minimum distance is not reached.  Some prototypes may include connection to the device's screen providing visual reminders.
+Spectral pal - a helping device fixed above or below a computer screen to measure the user's distance from the screen. Its main function is to give auditory warnings when the recommended minimum distance is not maintained.  Some prototypes may include connection to the device's screen providing visual reminders.
 
-Product's prototype is based on IR (infrared) sensor, Arduino UNO and uses C for coding. As alternatives in the final version special circuits can be used.
+The prototype is based on C language and uses Arduino UNO and IR (infrared) sensor. As alternatives in the future versions, special circuits may be used.
 
 
 ### 🔧 Work in progress:
@@ -16,5 +16,11 @@ Product's prototype is based on IR (infrared) sensor, Arduino UNO and uses C for
 
 
 
-### ⚙️ Simulation in Tinkercad 
--> [simulation](https://www.tinkercad.com/things/kJ8C4ohQrSh-spectral-pal?sharecode=h3pmaaNPvNmvdpFNgzQEwLuWjI1L4B5lH18c5Ithxl4)
+### ⚙️ Simulation
+🔗 [view the simulation on Tinkercad](https://www.tinkercad.com/things/kJ8C4ohQrSh-spectral-pal?sharecode=h3pmaaNPvNmvdpFNgzQEwLuWjI1L4B5lH18c5Ithxl4)
+
+---
+© 2025 Astral-Records. All rights reserved.
+
+This project is for demonstration purposes only.  
+No part of this work may be copied, used, or redistributed without explicit permission.
