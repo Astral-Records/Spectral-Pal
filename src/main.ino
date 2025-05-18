@@ -6,8 +6,8 @@ const int BUZZER_PIN = 6;
 const float MS = 0.0343;
 
 long duration; //long cuz int holds smaller values
-float distance;
-float prevDist = 0; // saved value so that it wont print  
+int distance;
+int prevDist = 0; // saved value so that it wont print  
 			             // same values repeatedly
 
 bool buzzON = false;
@@ -76,7 +76,7 @@ distance = duration*MS/2.0;
      delay(100); 
       
     } else{
-      Serial.println(" - YEAH keep that distance !!");
+      Serial.println(" - OH YEAH keep that distance !!");
       delay(100);
     }
     
